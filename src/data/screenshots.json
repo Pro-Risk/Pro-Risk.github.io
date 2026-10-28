@@ -1,0 +1,560 @@
+{
+  "asset-forge": [
+    {
+      "src": "/screenshots/asset-forge/01-library.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-library"
+    },
+    {
+      "src": "/screenshots/asset-forge/03-processing-pipeline.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "03-processing-pipeline"
+    },
+    {
+      "src": "/screenshots/asset-forge/04-processing-original.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "04-processing-original"
+    },
+    {
+      "src": "/screenshots/asset-forge/05-animation-timeline.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "05-animation-timeline"
+    },
+    {
+      "src": "/screenshots/asset-forge/08-atlas-export.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "08-atlas-export"
+    },
+    {
+      "src": "/screenshots/asset-forge/09-voxel-3d.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "09-voxel-3d"
+    }
+  ],
+  "bitlo": [
+    {
+      "src": "/screenshots/bitlo/01-home.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-home"
+    },
+    {
+      "src": "/screenshots/bitlo/02-song-generator.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "02-song-generator"
+    },
+    {
+      "src": "/screenshots/bitlo/03-song-for-mom.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "03-song-for-mom"
+    },
+    {
+      "src": "/screenshots/bitlo/06-studio.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "06-studio"
+    },
+    {
+      "src": "/screenshots/bitlo/07-home-mobile.webp",
+      "width": 832,
+      "height": 1800,
+      "name": "07-home-mobile"
+    }
+  ],
+  "cowoflo": [
+    {
+      "src": "/screenshots/cowoflo/01-assistant-cards.webp",
+      "width": 1920,
+      "height": 950,
+      "name": "01-assistant-cards"
+    },
+    {
+      "src": "/screenshots/cowoflo/02-sale-card.webp",
+      "width": 1920,
+      "height": 950,
+      "name": "02-sale-card"
+    },
+    {
+      "src": "/screenshots/cowoflo/03-pending-confirm.webp",
+      "width": 1920,
+      "height": 945,
+      "name": "03-pending-confirm"
+    },
+    {
+      "src": "/screenshots/cowoflo/04-dialogs.webp",
+      "width": 1920,
+      "height": 945,
+      "name": "04-dialogs"
+    },
+    {
+      "src": "/screenshots/cowoflo/05-claude-connector.webp",
+      "width": 1920,
+      "height": 950,
+      "name": "05-claude-connector"
+    },
+    {
+      "src": "/screenshots/cowoflo/06-superadmin.webp",
+      "width": 1920,
+      "height": 945,
+      "name": "06-superadmin"
+    }
+  ],
+  "crm": [
+    {
+      "src": "/screenshots/crm/01-login.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-login"
+    },
+    {
+      "src": "/screenshots/crm/03-reports-catalog.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "03-reports-catalog"
+    },
+    {
+      "src": "/screenshots/crm/04-roles-access.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "04-roles-access"
+    },
+    {
+      "src": "/screenshots/crm/05-org-terms.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "05-org-terms"
+    },
+    {
+      "src": "/screenshots/crm/06-modules.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "06-modules"
+    },
+    {
+      "src": "/screenshots/crm/07-mobile-copilot-light.webp",
+      "width": 780,
+      "height": 1688,
+      "name": "07-mobile-copilot-light"
+    },
+    {
+      "src": "/screenshots/crm/09-mobile-home.webp",
+      "width": 780,
+      "height": 1688,
+      "name": "09-mobile-home"
+    },
+    {
+      "src": "/screenshots/crm/10-clients-base-mockup.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "10-clients-base-mockup"
+    }
+  ],
+  "durak": [
+    {
+      "src": "/screenshots/durak/04-durak-setup.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "04-durak-setup"
+    },
+    {
+      "src": "/screenshots/durak/05-durak-table.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "05-durak-table"
+    },
+    {
+      "src": "/screenshots/durak/06-durak-cyber.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "06-durak-cyber"
+    }
+  ],
+  "facilitypro": [
+    {
+      "src": "/screenshots/facilitypro/01-client-dashboard.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-client-dashboard"
+    },
+    {
+      "src": "/screenshots/facilitypro/02-crm-dashboard.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "02-crm-dashboard"
+    },
+    {
+      "src": "/screenshots/facilitypro/03-crm-requests-kanban.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "03-crm-requests-kanban"
+    },
+    {
+      "src": "/screenshots/facilitypro/04-crm-request-detail.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "04-crm-request-detail"
+    },
+    {
+      "src": "/screenshots/facilitypro/05-crm-finance.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "05-crm-finance"
+    },
+    {
+      "src": "/screenshots/facilitypro/06-contractor-portal.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "06-contractor-portal"
+    },
+    {
+      "src": "/screenshots/facilitypro/07-controller-pwa-tasks.webp",
+      "width": 780,
+      "height": 1688,
+      "name": "07-controller-pwa-tasks"
+    },
+    {
+      "src": "/screenshots/facilitypro/08-controller-pwa-inspection.webp",
+      "width": 780,
+      "height": 1688,
+      "name": "08-controller-pwa-inspection"
+    }
+  ],
+  "hell-shift": [
+    {
+      "src": "/screenshots/hell-shift/02-biome-catacombs.webp",
+      "width": 1280,
+      "height": 720,
+      "name": "02-biome-catacombs"
+    },
+    {
+      "src": "/screenshots/hell-shift/03-biome-forge.webp",
+      "width": 1280,
+      "height": 720,
+      "name": "03-biome-forge"
+    },
+    {
+      "src": "/screenshots/hell-shift/04-biome-ice.webp",
+      "width": 1280,
+      "height": 720,
+      "name": "04-biome-ice"
+    },
+    {
+      "src": "/screenshots/hell-shift/05-boss-overseer.webp",
+      "width": 1000,
+      "height": 562,
+      "name": "05-boss-overseer"
+    },
+    {
+      "src": "/screenshots/hell-shift/06-boss-dragon.webp",
+      "width": 1000,
+      "height": 562,
+      "name": "06-boss-dragon"
+    }
+  ],
+  "hh-radar": [
+    {
+      "src": "/screenshots/hh-radar/01-options.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-options"
+    },
+    {
+      "src": "/screenshots/hh-radar/02-options-filters.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "02-options-filters"
+    },
+    {
+      "src": "/screenshots/hh-radar/03-options-dark.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "03-options-dark"
+    },
+    {
+      "src": "/screenshots/hh-radar/04-popup.webp",
+      "width": 640,
+      "height": 310,
+      "name": "04-popup"
+    }
+  ],
+  "mc-panel": [
+    {
+      "src": "/screenshots/mc-panel/01-dashboard.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-dashboard"
+    },
+    {
+      "src": "/screenshots/mc-panel/02-servers.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "02-servers"
+    },
+    {
+      "src": "/screenshots/mc-panel/03-server-console.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "03-server-console"
+    },
+    {
+      "src": "/screenshots/mc-panel/04-workshop.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "04-workshop"
+    },
+    {
+      "src": "/screenshots/mc-panel/05-nodes.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "05-nodes"
+    },
+    {
+      "src": "/screenshots/mc-panel/06-file-manager.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "06-file-manager"
+    },
+    {
+      "src": "/screenshots/mc-panel/07-client-launcher.webp",
+      "width": 1000,
+      "height": 700,
+      "name": "07-client-launcher"
+    },
+    {
+      "src": "/screenshots/mc-panel/08-client-launcher-install.webp",
+      "width": 1000,
+      "height": 700,
+      "name": "08-client-launcher-install"
+    }
+  ],
+  "porthole": [
+    {
+      "src": "/screenshots/porthole/01-room.webp",
+      "width": 1920,
+      "height": 1225,
+      "name": "01-room"
+    },
+    {
+      "src": "/screenshots/porthole/02-ports.webp",
+      "width": 1920,
+      "height": 1225,
+      "name": "02-ports"
+    },
+    {
+      "src": "/screenshots/porthole/03-relay.webp",
+      "width": 1920,
+      "height": 1225,
+      "name": "03-relay"
+    },
+    {
+      "src": "/screenshots/porthole/04-chat.webp",
+      "width": 1920,
+      "height": 1225,
+      "name": "04-chat"
+    },
+    {
+      "src": "/screenshots/porthole/05-narrow.webp",
+      "width": 840,
+      "height": 1640,
+      "name": "05-narrow"
+    }
+  ],
+  "qazqr": [
+    {
+      "src": "/screenshots/qazqr/01-landing-hero.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-landing-hero"
+    },
+    {
+      "src": "/screenshots/qazqr/02-landing-shezhire.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "02-landing-shezhire"
+    },
+    {
+      "src": "/screenshots/qazqr/03-landing-pricing.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "03-landing-pricing"
+    },
+    {
+      "src": "/screenshots/qazqr/04-app-welcome.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "04-app-welcome"
+    },
+    {
+      "src": "/screenshots/qazqr/05-app-welcome-mobile.webp",
+      "width": 832,
+      "height": 1800,
+      "name": "05-app-welcome-mobile"
+    },
+    {
+      "src": "/screenshots/qazqr/06-profile-mobile.webp",
+      "width": 832,
+      "height": 1800,
+      "name": "06-profile-mobile"
+    },
+    {
+      "src": "/screenshots/qazqr/07-profile-qr-mobile.webp",
+      "width": 832,
+      "height": 1800,
+      "name": "07-profile-qr-mobile"
+    },
+    {
+      "src": "/screenshots/qazqr/08-profile-desktop.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "08-profile-desktop"
+    }
+  ],
+  "shezhire": [
+    {
+      "src": "/screenshots/shezhire/01-horizontal-dark.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-horizontal-dark"
+    },
+    {
+      "src": "/screenshots/shezhire/02-radial-light.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "02-radial-light"
+    },
+    {
+      "src": "/screenshots/shezhire/04-mobile.webp",
+      "width": 430,
+      "height": 931,
+      "name": "04-mobile"
+    },
+    {
+      "src": "/screenshots/shezhire/06-saas-home-tree.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "06-saas-home-tree"
+    },
+    {
+      "src": "/screenshots/shezhire/07-saas-geography-map.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "07-saas-geography-map"
+    },
+    {
+      "src": "/screenshots/shezhire/08-saas-person-profile.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "08-saas-person-profile"
+    },
+    {
+      "src": "/screenshots/shezhire/09-saas-story-scroll.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "09-saas-story-scroll"
+    },
+    {
+      "src": "/screenshots/shezhire/10-saas-clan-map.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "10-saas-clan-map"
+    }
+  ],
+  "sip-stand": [
+    {
+      "src": "/screenshots/sip-stand/01-webphone.webp",
+      "width": 1120,
+      "height": 1080,
+      "name": "01-webphone"
+    },
+    {
+      "src": "/screenshots/sip-stand/02-webphone-mobile.webp",
+      "width": 832,
+      "height": 1800,
+      "name": "02-webphone-mobile"
+    }
+  ],
+  "tarkov-wiki": [
+    {
+      "src": "/screenshots/tarkov-wiki/01-locations.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "01-locations"
+    },
+    {
+      "src": "/screenshots/tarkov-wiki/02-quests.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "02-quests"
+    },
+    {
+      "src": "/screenshots/tarkov-wiki/03-quest-detail.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "03-quest-detail"
+    },
+    {
+      "src": "/screenshots/tarkov-wiki/04-market.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "04-market"
+    },
+    {
+      "src": "/screenshots/tarkov-wiki/05-traders.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "05-traders"
+    },
+    {
+      "src": "/screenshots/tarkov-wiki/06-hideout.webp",
+      "width": 1440,
+      "height": 900,
+      "name": "06-hideout"
+    }
+  ],
+  "void-relics": [
+    {
+      "src": "/screenshots/void-relics/01-main-menu.webp",
+      "width": 1920,
+      "height": 1080,
+      "name": "01-main-menu"
+    },
+    {
+      "src": "/screenshots/void-relics/02-world-map.webp",
+      "width": 1600,
+      "height": 860,
+      "name": "02-world-map"
+    },
+    {
+      "src": "/screenshots/void-relics/03-legendary-loot.webp",
+      "width": 1600,
+      "height": 900,
+      "name": "03-legendary-loot"
+    },
+    {
+      "src": "/screenshots/void-relics/04-boss-chest.webp",
+      "width": 1600,
+      "height": 900,
+      "name": "04-boss-chest"
+    },
+    {
+      "src": "/screenshots/void-relics/05-hero-in-game.webp",
+      "width": 1600,
+      "height": 900,
+      "name": "05-hero-in-game"
+    },
+    {
+      "src": "/screenshots/void-relics/06-fortress-boss-room.webp",
+      "width": 1600,
+      "height": 900,
+      "name": "06-fortress-boss-room"
+    }
+  ]
+}
