@@ -107,12 +107,6 @@ export const captions: Record<string, Record<string, string>> = {
     "01-webphone": "Браузерный телефон на JsSIP",
     "02-webphone-mobile": "Телефон на мобильном",
   },
-  "hh-radar": {
-    "01-options": "Настройки: Telegram и поиски hh.ru",
-    "02-options-filters": "Фильтры вакансий",
-    "03-options-dark": "Тёмная тема",
-    "04-popup": "Попап расширения",
-  },
   durak: {
     "04-durak-setup": "Настройка стола",
     "05-durak-table": "Партия против трёх ботов",

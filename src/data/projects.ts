@@ -373,24 +373,6 @@ const data: ProjectInput[] = [
     stack: ["FreeSWITCH", "WebRTC", "JsSIP", "Python", "Docker"],
   },
   {
-    slug: "hh-radar",
-    title: "HH Radar",
-    summary: "Chrome-расширение: новые вакансии hh.ru в Telegram.",
-    category: "apps",
-    year: "2026",
-    period: "сентябрь 2026",
-    role: "Автор",
-    about: [
-      "Раз в 20 минут расширение проверяет сохранённые поиски на hh.ru и присылает новые подходящие вакансии в Telegram. Сервер не нужен.",
-    ],
-    highlights: [
-      "Фильтры по удалёнке, зарплате и рейтингу работодателя.",
-      "Метка приоритета для сильных вакансий.",
-      "Дедупликация и защита от повторов.",
-    ],
-    stack: ["Chrome Extension", "JavaScript", "Telegram Bot API"],
-  },
-  {
     slug: "durak",
     title: "Дурак онлайн",
     summary: "8-битный «Дурак» с ботами и онлайн-комнатами.",

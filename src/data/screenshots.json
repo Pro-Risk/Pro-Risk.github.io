@@ -259,32 +259,6 @@
       "name": "06-boss-dragon"
     }
   ],
-  "hh-radar": [
-    {
-      "src": "/screenshots/hh-radar/01-options.webp",
-      "width": 1440,
-      "height": 900,
-      "name": "01-options"
-    },
-    {
-      "src": "/screenshots/hh-radar/02-options-filters.webp",
-      "width": 1440,
-      "height": 900,
-      "name": "02-options-filters"
-    },
-    {
-      "src": "/screenshots/hh-radar/03-options-dark.webp",
-      "width": 1440,
-      "height": 900,
-      "name": "03-options-dark"
-    },
-    {
-      "src": "/screenshots/hh-radar/04-popup.webp",
-      "width": 640,
-      "height": 310,
-      "name": "04-popup"
-    }
-  ],
   "mc-panel": [
     {
       "src": "/screenshots/mc-panel/01-dashboard.webp",
